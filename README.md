@@ -1,4 +1,4 @@
-## 📝 Blog Website Backend
+# 📝 Blog Website Backend
 
 This is the backend service for a blog website. It handles user authentication, blog CRUD operations, and comment management via a RESTful API.
 
